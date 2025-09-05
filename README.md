@@ -1,2 +1,1 @@
-# hospital_taser_use
-add later
+This investigation examines the use of tasers and other non-lethal weapons by hospital security staff on mental health patients in the U.S. It highlights incidents where weapons were used on vulnerable patients, including children, and explores gaps in training, hospital policies, and regulatory oversight. The project also reviews research on taser safety and conflicts of interest in studies funded by manufacturers. Its goal is to raise awareness and encourage safer approaches to protecting both staff and patients.
